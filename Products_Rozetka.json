@@ -1,0 +1,796 @@
+{
+    "Rozetka": [
+        {
+            "name": "Sigma mobile X-treme ST68 Black/Yellow",
+            "price": "1021"
+        },
+        {
+            "name": "Sigma mobile X-treme PT68 Black",
+            "price": "1021"
+        },
+        {
+            "name": "ZTE Blade L8 1/16GB Black",
+            "price": "1060"
+        },
+        {
+            "name": "Caterpillar CAT B26 Black",
+            "price": "1060"
+        },
+        {
+            "name": "Logic Instrument Fieldbook F1B",
+            "price": "10789"
+        },
+        {
+            "name": "Ulefone Armor 9 8/128GB Black",
+            "price": "11319"
+        },
+        {
+            "name": "Vivo X50 8/128 GB Frost Blue",
+            "price": "11319"
+        },
+        {
+            "name": "Caterpillar CAT S52",
+            "price": "11319"
+        },
+        {
+            "name": "Tecno POP 2F (B1f) 1/16GB DualSim Champagne Gold",
+            "price": "1202"
+        },
+        {
+            "name": "Alcatel 1 1/8GB Dual SIM Volcano Black (5033D-2HALUAA)",
+            "price": "1202"
+        },
+        {
+            "name": "Alcatel 1 1/16GB Dual SIM Volcano Black (5033D-2LALUAF)",
+            "price": "1202"
+        },
+        {
+            "name": "OPPO Reno4 Pro 8/256GB Blue",
+            "price": "12734"
+        },
+        {
+            "name": "Nokia 230 Dual Sim Dark Silver/Black",
+            "price": "1343"
+        },
+        {
+            "name": "Ulefone Note 8 2/16GB Amber Sunrise (6937748733782)",
+            "price": "1343"
+        },
+        {
+            "name": "ZTE Blade L210 1/32GB Blue (661250)",
+            "price": "1343"
+        },
+        {
+            "name": "Nokia 1.3 1/16GB DualSim Charcoal",
+            "price": "1414"
+        },
+        {
+            "name": "Philips E580 Xenium Black",
+            "price": "1414"
+        },
+        {
+            "name": "Ulefone Note 8P 2/16GB Midnight Green (6937748733577)",
+            "price": "1414"
+        },
+        {
+            "name": "Nomi i144m Blue",
+            "price": "147"
+        },
+        {
+            "name": "ZTE Blade A3 2020 1/32GB Dark Grey",
+            "price": "1485"
+        },
+        {
+            "name": "Sigma mobile X-Treme DZ68 Black",
+            "price": "1485"
+        },
+        {
+            "name": "Nomi i144c Red",
+            "price": "152"
+        },
+        {
+            "name": "Glofiish GPad U Black",
+            "price": "1555"
+        },
+        {
+            "name": "Ulefone S11 1/16GB Midnight Green",
+            "price": "1626"
+        },
+        {
+            "name": "Alcatel 1B (5002H) 2/32GB Dual SIM Prime Black (5002H-2AALUA12)",
+            "price": "1697"
+        },
+        {
+            "name": "Rezone A170 Point Dark Blue",
+            "price": "176"
+        },
+        {
+            "name": "Prestigio S Max 7610 Duo Dark Night (PSP7610DUOBLACKBLUE)",
+            "price": "1768"
+        },
+        {
+            "name": "Huawei P40 Pro 8/256GB Silver Frost",
+            "price": "17687"
+        },
+        {
+            "name": "Vivo X50 Pro Alpha Grey",
+            "price": "17687"
+        },
+        {
+            "name": "Sigma mobile X-treme PQ20 Black",
+            "price": "1807"
+        },
+        {
+            "name": "Doogee S40 Lite 2/16GB Black",
+            "price": "1824"
+        },
+        {
+            "name": "Nomi i189 Black",
+            "price": "183"
+        },
+        {
+            "name": "ZTE Blade A5 2020 2/32GB Green",
+            "price": "1838"
+        },
+        {
+            "name": "Nokia 2720 Flip Red",
+            "price": "1838"
+        },
+        {
+            "name": "2E S180 DualSim Black",
+            "price": "186"
+        },
+        {
+            "name": "Astro A171 Black",
+            "price": "190"
+        },
+        {
+            "name": "Nomi i188s Black",
+            "price": "190"
+        },
+        {
+            "name": "Huawei Y5p 32GB Mint Green (51095MUB)",
+            "price": "1909"
+        },
+        {
+            "name": "Rezone A240 Experience Black",
+            "price": "197"
+        },
+        {
+            "name": "Huawei Y5 2019 Brown Faux Leather",
+            "price": "1980"
+        },
+        {
+            "name": "Fly FF250 Black",
+            "price": "208"
+        },
+        {
+            "name": "ASSISTANT AS-201 Black",
+            "price": "211"
+        },
+        {
+            "name": "2E E180 2019 Dual Sim Blue",
+            "price": "211"
+        },
+        {
+            "name": "Tecno T301 Dual Sim Black",
+            "price": "211"
+        },
+        {
+            "name": "Nokia 2.4 2/32GB Fjord",
+            "price": "2121"
+        },
+        {
+            "name": "ZTE Blade A7 2020 2/32GB Black",
+            "price": "2121"
+        },
+        {
+            "name": "Blackview BV5500 2/16GB Black-Yellow (Украинская версия)",
+            "price": "2121"
+        },
+        {
+            "name": "Ulefone Note 7P 3/32Gb Twilight",
+            "price": "2121"
+        },
+        {
+            "name": "Sigma mobile X-style 17 Update Black",
+            "price": "215"
+        },
+        {
+            "name": "Ulefone Armor X6 2/16GB Black-Orange",
+            "price": "2192"
+        },
+        {
+            "name": "Sigma mobile X-style 18 Track Black-Green (4827798854433)",
+            "price": "222"
+        },
+        {
+            "name": "Tecno Camon 12 Air (CC6) Alpenglow Gold",
+            "price": "2231"
+        },
+        {
+            "name": "Rezone A171 Radiant Black",
+            "price": "225"
+        },
+        {
+            "name": "ZTE Blade A7s 2020 2/64GB Black",
+            "price": "2263"
+        },
+        {
+            "name": "Tecno Spark 5 Pro 4/64GB Orange (4895180756054)",
+            "price": "2263"
+        },
+        {
+            "name": "Vivo Y1S 2/32GB Black",
+            "price": "2263"
+        },
+        {
+            "name": "Xiaomi Redmi 9C 2/32GB Midnight Grey (660922)",
+            "price": "2334"
+        },
+        {
+            "name": "Nokia 800 Tough Black",
+            "price": "2334"
+        },
+        {
+            "name": "Alcatel 1SE (5030D) 3/32GB Dual SIM Power Gray (5030D-2AALUA2)",
+            "price": "2334"
+        },
+        {
+            "name": "Meizu M10 3/32GB Black",
+            "price": "2358"
+        },
+        {
+            "name": "Ulefone Armor X7 2/16GB Orange",
+            "price": "2404"
+        },
+        {
+            "name": "Realme C3 2/32GB Red",
+            "price": "2404"
+        },
+        {
+            "name": "ZTE Blade A7s 2020 3/64GB Blue",
+            "price": "2475"
+        },
+        {
+            "name": "ZTE Blade A7 2020 3/64GB Black",
+            "price": "2475"
+        },
+        {
+            "name": "OPPO A12 3/32GB Black",
+            "price": "2475"
+        },
+        {
+            "name": "Tecno Spark 5 Pro 4/128GB Orange (4895180760280)",
+            "price": "2475"
+        },
+        {
+            "name": "Blackview BV6100 Black/Grey (Украинская версия)",
+            "price": "2475"
+        },
+        {
+            "name": "Tecno T372 Triple SIM Black",
+            "price": "254"
+        },
+        {
+            "name": "Ulefone Armor X3 2/32GB Black-Red",
+            "price": "2546"
+        },
+        {
+            "name": "Assistant AS 203 Black",
+            "price": "261"
+        },
+        {
+            "name": "Motorola G8 Power Lite 4/64GB Royal Blue (PAJC0017RS)",
+            "price": "2617"
+        },
+        {
+            "name": "2E E240 2019 Dual Sim Red",
+            "price": "268"
+        },
+        {
+            "name": "Nokia 3.4 3/64GB Dusk",
+            "price": "2687"
+        },
+        {
+            "name": "Blackview BV5500 Pro 3/16GB Black (Украинская версия)",
+            "price": "2687"
+        },
+        {
+            "name": "Nomi i187 White",
+            "price": "275"
+        },
+        {
+            "name": "Realme C3 3/64GB Blue",
+            "price": "2758"
+        },
+        {
+            "name": "Alcatel 1SE (5030E) 4/128GB Dual SIM Power Gray (5030E-2AALUA2)",
+            "price": "2758"
+        },
+        {
+            "name": "Astro A169 Black/Gray",
+            "price": "282"
+        },
+        {
+            "name": "Rezone S240 Age Black/Orange",
+            "price": "282"
+        },
+        {
+            "name": "Assistant AS-204 Black",
+            "price": "282"
+        },
+        {
+            "name": "Nous Helper Mini (NS1736) Black",
+            "price": "282"
+        },
+        {
+            "name": "Rezone A280 Ocean Black/Blue",
+            "price": "282"
+        },
+        {
+            "name": "Prestigio Grace A1 PFP1281 Red",
+            "price": "282"
+        },
+        {
+            "name": "2E E240 Dual Sim Black",
+            "price": "282"
+        },
+        {
+            "name": "Motorola E7 Plus 4/64GB Blue (PAKX0008RS)",
+            "price": "2829"
+        },
+        {
+            "name": "ZTE Blade V2020 Smart 4/64GB Blue",
+            "price": "2829"
+        },
+        {
+            "name": "Realme 6i 3/64GB Green",
+            "price": "2829"
+        },
+        {
+            "name": "Ulefone Note 9P 4/64GB Aurora Blue (6937748733706 )",
+            "price": "2829"
+        },
+        {
+            "name": "Realme 5 3/64GB Blue",
+            "price": "2829"
+        },
+        {
+            "name": "Motorola RAZR 5G Gold",
+            "price": "28299"
+        },
+        {
+            "name": "Sigma mobile X-treme PQ29 Black",
+            "price": "2931"
+        },
+        {
+            "name": "ZTE Blade V2020 Smart 4/128GB Blue",
+            "price": "2970"
+        },
+        {
+            "name": "Huawei Y6p 3/64GB Emerald Green",
+            "price": "2970"
+        },
+        {
+            "name": "Ulefone Power 6 4/64GB Blue",
+            "price": "2970"
+        },
+        {
+            "name": "Nomi i249 Black",
+            "price": "303"
+        },
+        {
+            "name": "Verico Classic A183 Yellow (4713095608278)",
+            "price": "303"
+        },
+        {
+            "name": "ZTE Blade 20 Smart 4/128GB Black",
+            "price": "3041"
+        },
+        {
+            "name": "Ulefone Armor X5 3/32GB Black-Red",
+            "price": "3041"
+        },
+        {
+            "name": "Fly FF243 Black",
+            "price": "305"
+        },
+        {
+            "name": "Sigma mobile Comfort 50 HIT2020 Black",
+            "price": "314"
+        },
+        {
+            "name": "Nokia 5.3 4/64GB DualSim Charcoal",
+            "price": "3183"
+        },
+        {
+            "name": "Motorola G9 Play 4/64GB Green (PAKK0009RS)",
+            "price": "3183"
+        },
+        {
+            "name": "Realme 6i 4/128GB White",
+            "price": "3183"
+        },
+        {
+            "name": "OPPO A31 Lake Green",
+            "price": "3183"
+        },
+        {
+            "name": "Motorola G8 4/64GB Neon Blue (PAHL0004RS)",
+            "price": "3183"
+        },
+        {
+            "name": "Sigma mobile X-treme PQ36 Black-Orange",
+            "price": "3205"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 3/64GB Midnight Grey",
+            "price": "3395"
+        },
+        {
+            "name": "Vivo Y30 4/64GB Dazzle Blue",
+            "price": "3395"
+        },
+        {
+            "name": "Ulefone Armor X5 Pro 4/64GB Red (6937748733836)",
+            "price": "3466"
+        },
+        {
+            "name": "Nous Helper Classic (NS2415) Black",
+            "price": "352"
+        },
+        {
+            "name": "Alcatel 1066 Dual SIM Black (1066D-2AALUA5)",
+            "price": "352"
+        },
+        {
+            "name": "Meizu 16 6/64GB Black",
+            "price": "3536"
+        },
+        {
+            "name": "Huawei P Smart Z Black",
+            "price": "3536"
+        },
+        {
+            "name": "Vivo Y20 4/64GB Obsidian Black (6935117826820)",
+            "price": "3536"
+        },
+        {
+            "name": "OPPO A53 4/64GB Blue",
+            "price": "3536"
+        },
+        {
+            "name": "Fly FF249 Black-Blue",
+            "price": "367"
+        },
+        {
+            "name": "Sigma mobile X-treme PQ53 Black",
+            "price": "3678"
+        },
+        {
+            "name": "Sigma mobile X-treme PQ37 Black",
+            "price": "3678"
+        },
+        {
+            "name": "Verico Carbon M242 Blue",
+            "price": "374"
+        },
+        {
+            "name": "Realme 6 4/128GB Blue",
+            "price": "3749"
+        },
+        {
+            "name": "Meizu 16 6/128GB Black",
+            "price": "3749"
+        },
+        {
+            "name": "Nokia 105 TA-1203 Single Sim 2019 Black",
+            "price": "388"
+        },
+        {
+            "name": "Philips Xenium E109 Black",
+            "price": "388"
+        },
+        {
+            "name": "2E E240 POWER Dual Sim Black",
+            "price": "388"
+        },
+        {
+            "name": "Huawei P Smart 2021 128GB Black",
+            "price": "3890"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 4/128GB Midnight Grey",
+            "price": "3890"
+        },
+        {
+            "name": "Verico Classic C285 Gold (4713095608230)",
+            "price": "392"
+        },
+        {
+            "name": "OPPO A52 64GB Black",
+            "price": "3930"
+        },
+        {
+            "name": "OPPO A53 4/128GB Blue",
+            "price": "3930"
+        },
+        {
+            "name": "Verico Style S283 Blue",
+            "price": "401"
+        },
+        {
+            "name": "Ergo F282 Travel Dual Sim Black",
+            "price": "402"
+        },
+        {
+            "name": "Verico Qin S282 Black",
+            "price": "406"
+        },
+        {
+            "name": "Sigma mobile X-style 34 NRG Black",
+            "price": "408"
+        },
+        {
+            "name": "Motorola G8 Power 4/64GB Smoke Black (PAHF0007RS)",
+            "price": "4102"
+        },
+        {
+            "name": "Motorola G8 Plus 4/64GB Cosmic Blue (PAGE0015RS)",
+            "price": "4102"
+        },
+        {
+            "name": "Huawei P Smart S 4/128GB Breathing Crystal",
+            "price": "4102"
+        },
+        {
+            "name": "Nokia 106 Dual Sim 2018 Grey",
+            "price": "423"
+        },
+        {
+            "name": "Nokia 105 TA-1174 Dual Sim 2019 Black",
+            "price": "423"
+        },
+        {
+            "name": "Astro A167 Black",
+            "price": "423"
+        },
+        {
+            "name": "Rezone A281 Force Black",
+            "price": "423"
+        },
+        {
+            "name": "Fly FF281 Dark Grey",
+            "price": "423"
+        },
+        {
+            "name": "Realme 6 8/128GB White",
+            "price": "4244"
+        },
+        {
+            "name": "Sigma mobile Comfort 50 Grand Black",
+            "price": "455"
+        },
+        {
+            "name": "Astro B200 RX Black/Yellow",
+            "price": "459"
+        },
+        {
+            "name": "Nous Energy NS 2811 Black",
+            "price": "459"
+        },
+        {
+            "name": "Alcatel 2003 Dual SIM Metallic Blue (2003D-2BALUA1)",
+            "price": "459"
+        },
+        {
+            "name": "Realme 6 Pro 8/128GB Red",
+            "price": "4598"
+        },
+        {
+            "name": "Sigma mobile X-Style 31 Power Black",
+            "price": "473"
+        },
+        {
+            "name": "Maxcom MM814 White",
+            "price": "480"
+        },
+        {
+            "name": "Nous Helper Flip NS 2435 Black",
+            "price": "480"
+        },
+        {
+            "name": "Ulefone Armor 8 4/64GB Orange (6937748733768)",
+            "price": "4810"
+        },
+        {
+            "name": "Nokia 110 Black",
+            "price": "494"
+        },
+        {
+            "name": "Motorola G9 Plus 4/128GB Blue (PAKM0019RS)",
+            "price": "4951"
+        },
+        {
+            "name": "Huawei P40 lite 6/128GB Black",
+            "price": "4951"
+        },
+        {
+            "name": "OPPO A72 128GB Purple",
+            "price": "4951"
+        },
+        {
+            "name": "Sigma mobile X-treme PQ54 Max Black",
+            "price": "4951"
+        },
+        {
+            "name": "OPPO A73 4/128GB Navy Blue",
+            "price": "4951"
+        },
+        {
+            "name": "Sigma mobile X-Style 32 Boombox Black",
+            "price": "512"
+        },
+        {
+            "name": "Sigma mobile X-Style 36 Point Black (4827798331323)",
+            "price": "512"
+        },
+        {
+            "name": "Blackview BV6800 Pro 4/64GB Black-Yellow (Украинская версия)",
+            "price": "5234"
+        },
+        {
+            "name": "Sigma mobile X-style 24 ONYX Red (4827798324622)",
+            "price": "530"
+        },
+        {
+            "name": "Sigma mobile Comfort 50 Elegance3 Red (1600 mAh) SIMO Assistant",
+            "price": "565"
+        },
+        {
+            "name": "Philips E169 Xenium Dark Grey",
+            "price": "565"
+        },
+        {
+            "name": "Realme 7 Pro 8/128GB Mirror Silver",
+            "price": "5659"
+        },
+        {
+            "name": "Motorola One Fusion+ 6/128GB Blue (PAJW0006RS)",
+            "price": "5659"
+        },
+        {
+            "name": "Doogee S68 Pro 6/128GB Orange",
+            "price": "5659"
+        },
+        {
+            "name": "Verico Style F244 Silver",
+            "price": "579"
+        },
+        {
+            "name": "Ulefone A1 Gold",
+            "price": "597"
+        },
+        {
+            "name": "Alcatel 2019 Single SIM Metallic Silver (2019G-3BALUA1)",
+            "price": "600"
+        },
+        {
+            "name": "OPPO A91 128GB Blue",
+            "price": "6013"
+        },
+        {
+            "name": "2E R240 Dual Sim Black",
+            "price": "624"
+        },
+        {
+            "name": "Sigma mobile X-Style 33 Steel Grey",
+            "price": "635"
+        },
+        {
+            "name": "Astro A243 Black (1683)",
+            "price": "635"
+        },
+        {
+            "name": "Nomi i2000 X-Treme Black",
+            "price": "635"
+        },
+        {
+            "name": "2E R240 (2020) Dual Sim Black",
+            "price": "635"
+        },
+        {
+            "name": "Sigma mobile X-treme AZ68 Black-Orange",
+            "price": "635"
+        },
+        {
+            "name": "Alcatel 2053 Dual SIM Volcano Black (2053D-2AALUA1)",
+            "price": "635"
+        },
+        {
+            "name": "Ulefone Armor 7E 4/128GB Black (6937748733720)",
+            "price": "6366"
+        },
+        {
+            "name": "Vivo V20 SE 8/128GB Gravity Black (6935117827742)",
+            "price": "6366"
+        },
+        {
+            "name": "Sigma mobile X-style 35 Screen Black",
+            "price": "667"
+        },
+        {
+            "name": "Sigma mobile X-treme PQ39 Ultra Black",
+            "price": "6760"
+        },
+        {
+            "name": "Nokia 125 TA-1253 DualSim Black (16GMNB01A17)",
+            "price": "706"
+        },
+        {
+            "name": "Alcatel OneTouch 2051D White",
+            "price": "706"
+        },
+        {
+            "name": "Sigma mobile Comfort 50 Shell Duo Black-Red",
+            "price": "706"
+        },
+        {
+            "name": "OPPO Reno4 Lite 8/128GB Blue",
+            "price": "7074"
+        },
+        {
+            "name": "Sigma mobile X-Style S3500 sKai Black",
+            "price": "749"
+        },
+        {
+            "name": "Nokia 150 TA-1235 DualSim Black (16GMNB01A16)",
+            "price": "848"
+        },
+        {
+            "name": "Ulefone Armor MINI Black-Red",
+            "price": "848"
+        },
+        {
+            "name": "Nokia 210 Dual Sim Black (16OTRB01A02)",
+            "price": "848"
+        },
+        {
+            "name": "Ulefone Armor 7 8/128GB Black",
+            "price": "8489"
+        },
+        {
+            "name": "Vivo V20 8/128GB Midnight Jazz (6935117827339)",
+            "price": "8489"
+        },
+        {
+            "name": "Sigma mobile X-treme DT68 Black",
+            "price": "880"
+        },
+        {
+            "name": "Realme X2 Pro 8/128 Blue Gradient",
+            "price": "8843"
+        },
+        {
+            "name": "Ulefone Armor 9E 8/128GB Black (6937748733805)",
+            "price": "9197"
+        },
+        {
+            "name": "Philips E182 Xenium Blue",
+            "price": "954"
+        },
+        {
+            "name": "Nokia 5310 DualSim White/Red",
+            "price": "989"
+        },
+        {
+            "name": "Philips E255 Xenium Black",
+            "price": "989"
+        },
+        {
+            "name": "Alcatel 3025 Single SIM Metallic Gray (3025X-2AALUA1)",
+            "price": "989"
+        }
+    ]
+}

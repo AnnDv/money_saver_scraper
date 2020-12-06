@@ -1,6 +1,13 @@
 # Scraper for money_saver
 **Web app based on Django that provides price ranges for various electronic products**
 
+## Scraper Usage:
+
+To use this scraper you need the following:
+* Python 3.X.
+* Google Chrome Browser. (for Selenium WebDriver)
+* Any JSON Viewer.
+
 ## Sources:
 [Backend](https://github.com/pelm3wka/money_saver_backend)
 [Frontend](https://github.com/pelm3wka/money_saver_frontend)

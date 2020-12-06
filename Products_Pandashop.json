@@ -1,0 +1,868 @@
+{
+    "Pandashop": [
+        {
+            "name": "Huawei P30 6Gb/128Gb Black",
+            "price": "10233"
+        },
+        {
+            "name": "Philips E182 Blue",
+            "price": "1046"
+        },
+        {
+            "name": "Nokia 230 Duos Dark Silver",
+            "price": "1059"
+        },
+        {
+            "name": "Philips E255 DS Black",
+            "price": "1065"
+        },
+        {
+            "name": "Philips E255 Blue",
+            "price": "1065"
+        },
+        {
+            "name": "Philips E255 White",
+            "price": "1065"
+        },
+        {
+            "name": "Apple iPhone SE 2020 128Gb Black",
+            "price": "11225"
+        },
+        {
+            "name": "Xiaomi Mi 10 8Gb/128Gb Twilight Grey",
+            "price": "11499"
+        },
+        {
+            "name": "Nokia 3310 Duos Grey",
+            "price": "1179"
+        },
+        {
+            "name": "Maxcom MM751",
+            "price": "1199"
+        },
+        {
+            "name": "Maxcom MM721BB Black",
+            "price": "1249"
+        },
+        {
+            "name": "Maxcom MM36D",
+            "price": "1249"
+        },
+        {
+            "name": "Maxcom MM920 Black",
+            "price": "1249"
+        },
+        {
+            "name": "Oppo Reno 3 Pro 12Gb/256Gb Black",
+            "price": "12599"
+        },
+        {
+            "name": "Oppo Reno 3 Pro 12Gb/256Gb Blue",
+            "price": "12599"
+        },
+        {
+            "name": "Samsung SM-G973 Galaxy S10 8GB/128Gb Prism White",
+            "price": "12799"
+        },
+        {
+            "name": "Samsung SM-G973 Galaxy S10 8Gb/128Gb Black",
+            "price": "12799"
+        },
+        {
+            "name": "Samsung SM-G973 Galaxy S10 8Gb/128Gb Prism Red",
+            "price": "12799"
+        },
+        {
+            "name": "Samsung G780 S20fe 6/128Gb Cloud Mint",
+            "price": "12799"
+        },
+        {
+            "name": "Samsung G780 S20fe 6/128Gb Cloud Lavender",
+            "price": "12799"
+        },
+        {
+            "name": "Samsung G780 S20fe 6/128Gb Cloud Navy",
+            "price": "12799"
+        },
+        {
+            "name": "Samsung G780 S20fe 6/128Gb Cloud White",
+            "price": "12799"
+        },
+        {
+            "name": "Samsung G780 S20fe 6/128Gb Cloud Red",
+            "price": "12799"
+        },
+        {
+            "name": "Samsung G780 S20fe 6/128Gb Cloud Orange",
+            "price": "12799"
+        },
+        {
+            "name": "Samsung SM-G973 Galaxy S10 8Gb/128Gb EU Black",
+            "price": "12965"
+        },
+        {
+            "name": "Samsung SM-G973 Galaxy S10 8Gb/128Gb Prism Green",
+            "price": "13484"
+        },
+        {
+            "name": "Samsung SM-G975 Galaxy S10+ 8Gb/128Gb Prism Green",
+            "price": "13799"
+        },
+        {
+            "name": "Samsung SM-G975 Galaxy S10+ 8Gb/128Gb White",
+            "price": "13799"
+        },
+        {
+            "name": "Samsung SM-G975 Galaxy S10 + 8Gb/128Gb Cardinal Red",
+            "price": "13799"
+        },
+        {
+            "name": "OnePlus 8 12/256GB Green",
+            "price": "13999"
+        },
+        {
+            "name": "OnePlus 8 12/256GB Black",
+            "price": "13999"
+        },
+        {
+            "name": "Maxcom MK241",
+            "price": "1449"
+        },
+        {
+            "name": "Maxcom MM917",
+            "price": "1499"
+        },
+        {
+            "name": "Philips E580 Black",
+            "price": "1512"
+        },
+        {
+            "name": "Apple iPhone 11 64Gb Black",
+            "price": "15149"
+        },
+        {
+            "name": "Apple iPhone 11 64Gb Green",
+            "price": "15149"
+        },
+        {
+            "name": "Oppo Reno 4 Pro 12Gb/256Gb Black",
+            "price": "15608"
+        },
+        {
+            "name": "Oppo Reno 4 Pro 12Gb/256Gb",
+            "price": "15608"
+        },
+        {
+            "name": "Apple iPhone 11 128Gb Black",
+            "price": "16152"
+        },
+        {
+            "name": "Samsung SM-G980 Galaxy S20 8Gb/128Gb Cloud Blue",
+            "price": "16399"
+        },
+        {
+            "name": "Samsung SM-G980 Galaxy S20 8Gb/128Gb Cosmic Gray",
+            "price": "16399"
+        },
+        {
+            "name": "Samsung SM-G980 Galaxy S20 8Gb/128Gb Aura Red",
+            "price": "16399"
+        },
+        {
+            "name": "Apple iPhone 11 128Gb Green",
+            "price": "16791"
+        },
+        {
+            "name": "Apple iPhone 11 128Gb Purple",
+            "price": "16791"
+        },
+        {
+            "name": "Oppo Find X2 12Gb/256Gb Black",
+            "price": "17092"
+        },
+        {
+            "name": "Samsung SM-A013 Galaxy A01 Core 1GB/16Gb Black",
+            "price": "1719"
+        },
+        {
+            "name": "Samsung SM-A013 Galaxy A01 Core 1Gb/16Gb Red",
+            "price": "1719"
+        },
+        {
+            "name": "Samsung SM-A013 Galaxy A01 Core 1Gb/16Gb Blue",
+            "price": "1719"
+        },
+        {
+            "name": "Vonino Zun N 4G Dark Grey",
+            "price": "1737"
+        },
+        {
+            "name": "Samsung SM-G985 Galaxy S20+ 8Gb/128Gb Cosmic Black",
+            "price": "17999"
+        },
+        {
+            "name": "Samsung SM-G985 Galaxy S20+ 8Gb/128Gb Cosmic Gray",
+            "price": "17999"
+        },
+        {
+            "name": "Samsung SM-G985 Galaxy S20+ 8Gb/128Gb Aura Red",
+            "price": "17999"
+        },
+        {
+            "name": "Samsung Galaxy N980 Note20 8/256 Mystic Bronze",
+            "price": "18799"
+        },
+        {
+            "name": "Samsung Galaxy N980 Note20/256 Green",
+            "price": "18799"
+        },
+        {
+            "name": "Apple iPhone 11 Pro Dual Sim 64Gb Silver",
+            "price": "19999"
+        },
+        {
+            "name": "Apple iPhone 11 Pro 64Gb Space Grey",
+            "price": "20989"
+        },
+        {
+            "name": "Apple iPhone 11 Pro 64Gb Gold",
+            "price": "20989"
+        },
+        {
+            "name": "Apple iPhone 11 Pro 64Gb Silver",
+            "price": "21354"
+        },
+        {
+            "name": "Apple iPhone 11 Pro 64Gb Midnight Green",
+            "price": "21354"
+        },
+        {
+            "name": "Philips S561 Black",
+            "price": "2176"
+        },
+        {
+            "name": "Apple iPhone 11 Pro Max 64Gb Space Grey",
+            "price": "21875"
+        },
+        {
+            "name": "Samsung SM-A015 Galaxy A01 Black",
+            "price": "2199"
+        },
+        {
+            "name": "Samsung SM-A015 Galaxy A01 Red",
+            "price": "2199"
+        },
+        {
+            "name": "Samsung SM-A015 Galaxy A01 Blue",
+            "price": "2199"
+        },
+        {
+            "name": "Samsung SM-G988 Galaxy S20 Ultra 12Gb/128Gb Cosmic Black",
+            "price": "22799"
+        },
+        {
+            "name": "Samsung SM-G988 Galaxy S20 Ultra 12Gb/128Gb Cosmic Gray",
+            "price": "22799"
+        },
+        {
+            "name": "Samsung Galaxy N985 Note20 Ultra 8/256 Mystic Black",
+            "price": "23899"
+        },
+        {
+            "name": "Samsung Galaxy N985 Note20 Ultra 8/256 Mystic White",
+            "price": "23899"
+        },
+        {
+            "name": "Samsung Galaxy N985 Note20 Ultra 8/256 Mystic Bronze",
+            "price": "23899"
+        },
+        {
+            "name": "Xiaomi Redmi 9A 2Gb/32Gb Sky Blue",
+            "price": "2400"
+        },
+        {
+            "name": "Apple iPhone 11 Pro 256Gb Gold",
+            "price": "24037"
+        },
+        {
+            "name": "Oppo A12 3Gb/32Gb Black",
+            "price": "2499"
+        },
+        {
+            "name": "Apple iPhone 11 Pro Max Dual Sim 64Gb Silver",
+            "price": "25298"
+        },
+        {
+            "name": "Samsung SM-A107 Galaxy A10s Red",
+            "price": "2549"
+        },
+        {
+            "name": "Samsung SM-A107 Galaxy A10s Black",
+            "price": "2569"
+        },
+        {
+            "name": "Samsung SM-A107 Galaxy A10s Blue",
+            "price": "2569"
+        },
+        {
+            "name": "Xiaomi Redmi 9A 2Gb/32Gb Ocean Green",
+            "price": "2644"
+        },
+        {
+            "name": "Xiaomi Redmi 9A 2Gb/32Gb Carbon Grey",
+            "price": "2644"
+        },
+        {
+            "name": "Apple iPhone 12 Pro 128Gb Graphite",
+            "price": "26464"
+        },
+        {
+            "name": "Xiaomi Redmi 9 3Gb/32Gb Carbon Grey",
+            "price": "2799"
+        },
+        {
+            "name": "Xiaomi Redmi 9C 3Gb/64Gb Blue",
+            "price": "2799"
+        },
+        {
+            "name": "Vonino Nono 33 Duos Dark Blue",
+            "price": "280"
+        },
+        {
+            "name": "Vonino Nono 33 Duos Grey",
+            "price": "280"
+        },
+        {
+            "name": "Xiaomi Redmi 9 3Gb/32Gb Ocean Green",
+            "price": "2836"
+        },
+        {
+            "name": "Xiaomi Redmi 9 3Gb/32Gb Sunset Purple",
+            "price": "2890"
+        },
+        {
+            "name": "Oppo A12 4Gb/64Gb Black",
+            "price": "2899"
+        },
+        {
+            "name": "Oppo A12 4Gb/64Gb Blue",
+            "price": "2899"
+        },
+        {
+            "name": "Huawei Y6P 3Gb/64Gb Phantom Purple",
+            "price": "2908"
+        },
+        {
+            "name": "Huawei Y6P 3Gb/64Gb Emerald Green",
+            "price": "2908"
+        },
+        {
+            "name": "Xiaomi Redmi 9C 3Gb/64Gb Grey",
+            "price": "2927"
+        },
+        {
+            "name": "Samsung SM-A115 Galaxy A11 2Gb/32Gb White",
+            "price": "2978"
+        },
+        {
+            "name": "Ergo F188 Play Black",
+            "price": "299"
+        },
+        {
+            "name": "Xiaomi Redmi 9C 3Gb/64Gb Orange",
+            "price": "3021"
+        },
+        {
+            "name": "Samsung SM-A115 Galaxy A11 2Gb/32Gb Black",
+            "price": "3049"
+        },
+        {
+            "name": "Samsung SM-A115 Galaxy A11 2Gb/32Gb Red",
+            "price": "3049"
+        },
+        {
+            "name": "Samsung Galaxy M11 3Gb/32Gb Black",
+            "price": "3149"
+        },
+        {
+            "name": "Samsung Galaxy M11 3Gb/32Gb Blue",
+            "price": "3149"
+        },
+        {
+            "name": "Huawei P40 Lite 4Gb/64Gb Midnight Black",
+            "price": "3172"
+        },
+        {
+            "name": "Xiaomi Redmi 9 4Gb/64Gb Sunset Purple",
+            "price": "3219"
+        },
+        {
+            "name": "Xiaomi Redmi 9 4Gb/64Gb Ocean Green",
+            "price": "3219"
+        },
+        {
+            "name": "Oppo A31 4Gb/64Gb Black",
+            "price": "3249"
+        },
+        {
+            "name": "Oppo A31 4Gb/64Gb Green",
+            "price": "3249"
+        },
+        {
+            "name": "Huawei P40 Lite E 4Gb/64Gb Aurora Blue",
+            "price": "3267"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 3Gb/64Gb Forest Green",
+            "price": "3299"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 3Gb/64Gb Black",
+            "price": "3299"
+        },
+        {
+            "name": "Apple iPhone 12 Pro Max 128Gb Gold",
+            "price": "33947"
+        },
+        {
+            "name": "Apple iPhone 12 Pro Max 128Gb Graphite",
+            "price": "33947"
+        },
+        {
+            "name": "Apple iPhone 12 Pro Max 128Gb Silver",
+            "price": "33947"
+        },
+        {
+            "name": "Xiaomi Redmi 9 4Gb/64Gb Carbon Grey",
+            "price": "3399"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8T 3Gb/32Gb Starscape Blue",
+            "price": "3493"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8T 4Gb/64Gb Moonshadow Grey",
+            "price": "3682"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8T 4Gb/64Gb Starscape Blue",
+            "price": "3682"
+        },
+        {
+            "name": "Apple iPhone 12 Pro Max 256Gb Graphite",
+            "price": "37050"
+        },
+        {
+            "name": "Apple iPhone 12 Pro Max 256Gb Silver",
+            "price": "37050"
+        },
+        {
+            "name": "Realme 5 4Gb/128Gb Crystal Blue",
+            "price": "3719"
+        },
+        {
+            "name": "Samsung SM-A217 Galaxy A21s 3Gb/32Gb Black",
+            "price": "3749"
+        },
+        {
+            "name": "Samsung SM-A217 Galaxy A21s 3Gb/32Gb White",
+            "price": "3749"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 3Gb/64Gb Midnight Grey",
+            "price": "3750"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 3Gb/64Gb Polar White",
+            "price": "3750"
+        },
+        {
+            "name": "Ergo F186 Solace Black",
+            "price": "379"
+        },
+        {
+            "name": "Samsung Galaxy F916 Z Fold 2 12Gb/256Gb Black",
+            "price": "39899"
+        },
+        {
+            "name": "Samsung Galaxy F916 Z Fold 12Gb/256Gb Bronze",
+            "price": "39899"
+        },
+        {
+            "name": "Oppo A9 4Gb/128Gb Green",
+            "price": "3999"
+        },
+        {
+            "name": "Oppo A9 4Gb/128Gb Purple",
+            "price": "3999"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8 Pro 6Gb/64Gb Forest Green",
+            "price": "4049"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9S 4Gb/64Gb Interstellar Grey",
+            "price": "4049"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8 Pro 6Gb/64Gb Ocean Blue",
+            "price": "4049"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9S 4Gb/64Gb Aurora Blue",
+            "price": "4049"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9S 4Gb/64Gb Glacier White",
+            "price": "4049"
+        },
+        {
+            "name": "Vonino Nono C 2G Black Blue",
+            "price": "406"
+        },
+        {
+            "name": "Vonino Nono C 2G Blue/Yellow",
+            "price": "406"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 4Gb/128Gb Black",
+            "price": "4116"
+        },
+        {
+            "name": "Nokia 105 (2019) Duos Black",
+            "price": "412"
+        },
+        {
+            "name": "Nokia 105 (2019) Duos Blue",
+            "price": "412"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8 Pro 6Gb/64Gb Mineral Gray",
+            "price": "4343"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8 Pro 6Gb/128Gb Mineral Gray",
+            "price": "4449"
+        },
+        {
+            "name": "Samsung SM-A315 Galaxy A31 4Gb/64Gb Prism Crush Blue",
+            "price": "4499"
+        },
+        {
+            "name": "Samsung SM-A315 Galaxy A31 4Gb/64Gb Prism Crush Black",
+            "price": "4499"
+        },
+        {
+            "name": "Samsung SM-A315 Galaxy A31 4Gb/64Gb Prism Crush Red",
+            "price": "4499"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8 Pro 6Gb/64Gb Pearl White",
+            "price": "4532"
+        },
+        {
+            "name": "Oppo A72 4Gb/128Gb Black",
+            "price": "4599"
+        },
+        {
+            "name": "Oppo A72 4Gb/128Gb Purple",
+            "price": "4599"
+        },
+        {
+            "name": "Philips E109 Black",
+            "price": "469"
+        },
+        {
+            "name": "Philips E109 Red",
+            "price": "469"
+        },
+        {
+            "name": "Samsung SM-A415 Galaxy A41 4Gb/64Gb Prism Crush Blue",
+            "price": "4699"
+        },
+        {
+            "name": "Samsung SM-A415 Galaxy A41 4Gb/64Gb Prism Crush Black",
+            "price": "4699"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9S 6Gb/128Gb Aurora Blue",
+            "price": "4799"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9S 6Gb/128Gb Glacier White",
+            "price": "4799"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 Pro 6Gb/64Gb Interstellar Grey",
+            "price": "4889"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 Pro 6Gb/64Gb Tropical Green",
+            "price": "4889"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 Pro 6Gb/64Gb Glacier White",
+            "price": "4889"
+        },
+        {
+            "name": "Huawei P40 Lite 6Gb/128Gb Midnight Black",
+            "price": "4909"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8 Pro 6Gb/128Gb Forest Green",
+            "price": "4985"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8 Pro 6Gb/128Gb Pearl White",
+            "price": "4985"
+        },
+        {
+            "name": "Xiaomi Redmi Note 8 Pro 6Gb/128Gb Ocean Blue",
+            "price": "4985"
+        },
+        {
+            "name": "Maxcom MM134 Black",
+            "price": "499"
+        },
+        {
+            "name": "Maxcom MM818 Black",
+            "price": "499"
+        },
+        {
+            "name": "Maxcom MM142 Black",
+            "price": "499"
+        },
+        {
+            "name": "Samsung SM-A315 Galaxy A31 4Gb/128Gb Prism Crush Blue",
+            "price": "4999"
+        },
+        {
+            "name": "Samsung SM-A315 Galaxy A31 4Gb/128Gb Prism Crush Black",
+            "price": "4999"
+        },
+        {
+            "name": "Samsung SM-A315 Galaxy A31 4Gb/128Gb Prism Crush White",
+            "price": "4999"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9S 6Gb/128Gb Interstellar Grey",
+            "price": "5004"
+        },
+        {
+            "name": "Maxcom MM428BB Black/Red",
+            "price": "503"
+        },
+        {
+            "name": "Huawei P30 Lite 4Gb/128Gb Peacock Blue",
+            "price": "5192"
+        },
+        {
+            "name": "Huawei P30 Lite 4Gb/128Gb Midnight Black",
+            "price": "5192"
+        },
+        {
+            "name": "Huawei P30 Lite 4Gb/128Gb Pearl White",
+            "price": "5296"
+        },
+        {
+            "name": "Samsung Galaxy M31 6Gb/128Gb Red",
+            "price": "5299"
+        },
+        {
+            "name": "Samsung Galaxy M31 6Gb/128Gb Black",
+            "price": "5299"
+        },
+        {
+            "name": "Samsung Galaxy M31 6Gb/128Gb Blue",
+            "price": "5299"
+        },
+        {
+            "name": "Xiaomi Poco X3 6/64GB Grey",
+            "price": "5381"
+        },
+        {
+            "name": "Nokia 110 Dual Sim Black",
+            "price": "539"
+        },
+        {
+            "name": "Samsung SM-A515 Galaxy A51 4Gb/64Gb Black",
+            "price": "5399"
+        },
+        {
+            "name": "Samsung SM-A515 Galaxy A51 4Gb/64Gb Blue",
+            "price": "5399"
+        },
+        {
+            "name": "Samsung SM-A515 Galaxy A51 4Gb/64Gb White",
+            "price": "5399"
+        },
+        {
+            "name": "Samsung SM-A515 Galaxy A51 4Gb/64Gb Silver",
+            "price": "5399"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 Pro 6Gb/128Gb Interstellar Grey",
+            "price": "5499"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 Pro 6Gb/128Gb Tropical Green",
+            "price": "5499"
+        },
+        {
+            "name": "Xiaomi Redmi Note 9 Pro 6Gb/128Gb Glacier White",
+            "price": "5499"
+        },
+        {
+            "name": "Samsung SM-N920C Galaxy Note 5 32Gb Pink Gold",
+            "price": "5557"
+        },
+        {
+            "name": "Philips E125 Blue",
+            "price": "568"
+        },
+        {
+            "name": "Philips E125 Black",
+            "price": "568"
+        },
+        {
+            "name": "Xiaomi Mi 10 Lite 6Gb/64Gb Gray",
+            "price": "5799"
+        },
+        {
+            "name": "Xiaomi Mi 10 Lite 6Gb/64Gb White",
+            "price": "5799"
+        },
+        {
+            "name": "Xiaomi Poco X3 6/128Gb Gray",
+            "price": "5853"
+        },
+        {
+            "name": "Samsung A515 Galaxy A51 6Gb/128Gb Silver",
+            "price": "6205"
+        },
+        {
+            "name": "Allview M9 Join Black",
+            "price": "624"
+        },
+        {
+            "name": "Xiaomi Mi 10 Lite 6Gb/128Gb Gray",
+            "price": "6329"
+        },
+        {
+            "name": "Samsung SM-A515 Galaxy A51 6Gb/128Gb Black",
+            "price": "6349"
+        },
+        {
+            "name": "Samsung SM-A515 Galaxy A51 6Gb/128Gb Blue",
+            "price": "6349"
+        },
+        {
+            "name": "Samsung SM-A515 Galaxy A51 6Gb/128Gb White",
+            "price": "6349"
+        },
+        {
+            "name": "Samsung A51 6/128Gb Metallic Silver",
+            "price": "6349"
+        },
+        {
+            "name": "Samsung Galaxy M31s 6/128Gb Black",
+            "price": "6399"
+        },
+        {
+            "name": "Philips E169 Red",
+            "price": "640"
+        },
+        {
+            "name": "Philips E169 Dark Grey",
+            "price": "640"
+        },
+        {
+            "name": "Xiaomi Mi Note 10 Lite 6Gb/64Gb Nebula Purple",
+            "price": "6479"
+        },
+        {
+            "name": "Samsung SM-A730F Galaxy A8+ (2018) 4Gb/64Gb Duos Gold",
+            "price": "6483"
+        },
+        {
+            "name": "Maxcom MM426",
+            "price": "649"
+        },
+        {
+            "name": "Oppo Reno 4 Lite 8Gb/128Gb Blue",
+            "price": "6699"
+        },
+        {
+            "name": "Oppo Reno 4 Lite 8Gb/128Gb Black",
+            "price": "6699"
+        },
+        {
+            "name": "Nomi i282 Black/Grey",
+            "price": "679"
+        },
+        {
+            "name": "Huawei Nova 5T 6Gb/128Gb Blue",
+            "price": "6986"
+        },
+        {
+            "name": "Maxcom MM236 Black/Silver",
+            "price": "699"
+        },
+        {
+            "name": "Huawei Nova 5T 6Gb/128Gb Purple",
+            "price": "7081"
+        },
+        {
+            "name": "Ergo F248 Defender Black",
+            "price": "729"
+        },
+        {
+            "name": "Apple iPhone 7 32Gb Rose Gold",
+            "price": "7337"
+        },
+        {
+            "name": "Apple iPhone 7 32Gb Gold",
+            "price": "7337"
+        },
+        {
+            "name": "Samsung Galaxy M51 6/128Gb White",
+            "price": "7359"
+        },
+        {
+            "name": "Samsung Galaxy M51 6/128Gb Black",
+            "price": "7359"
+        },
+        {
+            "name": "Nokia 210 Duos Black",
+            "price": "799"
+        },
+        {
+            "name": "Samsung SM-A715 Galaxy A71 6Gb/128Gb Black",
+            "price": "7999"
+        },
+        {
+            "name": "Samsung SM-A715 Galaxy A71 6Gb/128Gb Blue",
+            "price": "7999"
+        },
+        {
+            "name": "Samsung SM-A715 Galaxy A71 6Gb/128Gb Silver",
+            "price": "7999"
+        },
+        {
+            "name": "Nokia 5310 2020 Black/Red",
+            "price": "899"
+        },
+        {
+            "name": "Xiaomi Poco F2 Pro 6Gb/128Gb Electric Purple",
+            "price": "9014"
+        },
+        {
+            "name": "Xiaomi Mi Note 10 6Gb/128Gb Midnight Black",
+            "price": "9252"
+        },
+        {
+            "name": "OnePlus 6 6Gb/64Gb Mirror Black",
+            "price": "9422"
+        }
+    ]
+}
